@@ -1,0 +1,8 @@
+1;"Wabnegg";"München"
+2;"Treiber";"Hannover"
+3;"Allweiler";"Bonn"
+4;"Biber";"Bremen"
+5;"Rovi";"Berlin"
+6;"Schwarzl";"Eschborn"
+7;"Jandl";"Stuttgart"
+8;"Grebien";"Nürnberg"

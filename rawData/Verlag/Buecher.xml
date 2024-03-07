@@ -1,0 +1,219 @@
+<Buecherliste>
+  <Buch ID="1">
+    <Buchtitel>Konfigurieren von Windows Server 2008 Active Directory</Buchtitel>
+    <Autor>4</Autor>
+    <Reihe>1</Reihe>
+    <ISBN>978-3-86645-940-3</ISBN>
+    <Preis>79.00</Preis>
+  </Buch>
+  <Buch ID="2">
+    <Buchtitel>Konfigurieren einer Windows Server 2008-Netzwerkinfrastruktur</Buchtitel>
+    <Autor>11</Autor>
+    <Reihe>1</Reihe>
+    <ISBN>978-3-86645-942-7</ISBN>
+    <Preis>79.00</Preis>
+  </Buch>
+  <Buch ID="3">
+    <Buchtitel>Microsoft Windows Server 2008 Serveradministration</Buchtitel>
+    <Autor>12</Autor>
+    <Reihe>1</Reihe>
+    <ISBN>978-3-86645-946-5</ISBN>
+    <Preis>79.00</Preis>
+  </Buch>
+  <Buch ID="4">
+    <Buchtitel>Konfigurieren von Windows 7 MCTS</Buchtitel>
+    <Autor>12</Autor>
+    <Reihe>1</Reihe>
+    <ISBN>978-3-86645-980-9</ISBN>
+    <Preis>79.00</Preis>
+  </Buch>
+  <Buch ID="5">
+    <Buchtitel>Microsoft Windows Server 2008 Unternehmensadministration</Buchtitel>
+    <Autor>12</Autor>
+    <Reihe>1</Reihe>
+    <ISBN>978-3-86645-947-2</ISBN>
+    <Preis>79.00</Preis>
+  </Buch>
+  <Buch ID="6">
+    <Buchtitel>Microsoft Office SharePoint Server 2007 - Das Handbuch</Buchtitel>
+    <Autor>3</Autor>
+    <Reihe>2</Reihe>
+    <ISBN>978-3-86645-117-9</ISBN>
+    <Preis>59.00</Preis>
+  </Buch>
+  <Buch ID="7">
+    <Buchtitel>Microsoft Office SharePoint Server 2007-Programmierung</Buchtitel>
+    <Autor>18</Autor>
+    <Reihe>2</Reihe>
+    <ISBN>978-3-86645-642-6</ISBN>
+    <Preis>39.90</Preis>
+  </Buch>
+  <Buch ID="8">
+    <Buchtitel>Internetinformationsdienste (IIS) 7.0 - Die technische Referenz</Buchtitel>
+    <Autor>10</Autor>
+    <Reihe>1</Reihe>
+    <ISBN>978-3-86645-924-3</ISBN>
+    <Preis>79.00</Preis>
+  </Buch>
+  <Buch ID="9">
+    <Buchtitel>Cloud Computing mit der Windows Azure Platform</Buchtitel>
+    <Autor>17</Autor>
+    <Reihe>1</Reihe>
+    <ISBN>978-3-86645-533-7</ISBN>
+    <Preis>39.90</Preis>
+  </Buch>
+  <Buch ID="10">
+    <Buchtitel>Konfigurieren der Windows Server-Virtualisierung</Buchtitel>
+    <Autor>14</Autor>
+    <Reihe>1</Reihe>
+    <ISBN>978-3-86645-952-6</ISBN>
+    <Preis>79.00</Preis>
+  </Buch>
+  <Buch ID="11">
+    <Buchtitel>Microsoft Windows Server 2008 Hyper-V - Die technische Referenz</Buchtitel>
+    <Autor>9</Autor>
+    <Reihe>1</Reihe>
+    <ISBN>978-3-86645-926-7</ISBN>
+    <Preis>79.00</Preis>
+  </Buch>
+  <Buch ID="12">
+    <Buchtitel>Implementieren und Warten von SQL Server 2008 MCTS</Buchtitel>
+    <Autor>5</Autor>
+    <Reihe>3</Reihe>
+    <ISBN>978-3-86645-932-8</ISBN>
+    <Preis>79.00</Preis>
+  </Buch>
+  <Buch ID="13">
+    <Buchtitel>SQL Server 2008 - Database Development</Buchtitel>
+    <Autor>5</Autor>
+    <Reihe>3</Reihe>
+    <ISBN>978-0-7356-2639-3</ISBN>
+    <Preis>70.00</Preis>
+  </Buch>
+  <Buch ID="14">
+    <Buchtitel>Business Intelligence und Reporting mit SQL Server 2008</Buchtitel>
+    <Autor>1</Autor>
+    <Reihe>4</Reihe>
+    <ISBN>978-3-86645-657-0</ISBN>
+    <Preis>59.00</Preis>
+  </Buch>
+  <Buch ID="15">
+    <Buchtitel>Business Intelligence mit Office 2007 und SQL Server</Buchtitel>
+    <Autor>1</Autor>
+    <Reihe>4</Reihe>
+    <ISBN>978-3-86645-637-2</ISBN>
+    <Preis>49.90</Preis>
+  </Buch>
+  <Buch ID="16">
+    <Buchtitel>SQL Server 2008</Buchtitel>
+    <Autor>13</Autor>
+    <Reihe>3</Reihe>
+    <ISBN>978-3-86645-519-1</ISBN>
+    <Preis>39.90</Preis>
+  </Buch>
+  <Buch ID="17">
+    <Buchtitel>Microsoft SQL Server 2005 - Das Entwicklerbuch</Buchtitel>
+    <Autor>20</Autor>
+    <Reihe>3</Reihe>
+    <ISBN>978-3-86063-538-4</ISBN>
+    <Preis>59.00</Preis>
+  </Buch>
+  <Buch ID="18">
+    <Buchtitel>Microsoft SQL Server 2008 R2 - Das Entwicklerbuch</Buchtitel>
+    <Autor>20</Autor>
+    <Reihe>3</Reihe>
+    <ISBN>978-3-86645-514-6</ISBN>
+    <Preis>59.00</Preis>
+  </Buch>
+  <Buch ID="19">
+    <Buchtitel>SQL Server 2008 Integration Services</Buchtitel>
+    <Autor>6</Autor>
+    <Reihe>4</Reihe>
+    <ISBN>978-3-86645-654-9</ISBN>
+    <Preis>49.90</Preis>
+  </Buch>
+  <Buch ID="20">
+    <Buchtitel>SQL Server 2008 Internals</Buchtitel>
+    <Autor>2</Autor>
+    <Reihe>3</Reihe>
+    <ISBN>978-3-86645-656-3</ISBN>
+    <Preis>59.00</Preis>
+  </Buch>
+  <Buch ID="21">
+    <Buchtitel>SQL Server 2008 Reporting Services - Das Praxisbuch</Buchtitel>
+    <Autor>16</Autor>
+    <Reihe>4</Reihe>
+    <ISBN>978-3-86645-646-4</ISBN>
+    <Preis>49.90</Preis>
+  </Buch>
+  <Buch ID="22">
+    <Buchtitel>SQL Server 2008-Performance-Optimierung</Buchtitel>
+    <Autor>15</Autor>
+    <Reihe>3</Reihe>
+    <ISBN>978-3-82732-778-9</ISBN>
+    <Preis>39.90</Preis>
+  </Buch>
+  <Buch ID="23">
+    <Buchtitel>SQL Server® 2008 Business Intelligence Development </Buchtitel>
+    <Autor>21</Autor>
+    <Reihe>4</Reihe>
+    <ISBN>978-0-73562-636-2</ISBN>
+    <Preis>60.00</Preis>
+  </Buch>
+  <Buch ID="24">
+    <Buchtitel>SQL Server 2008 Integration Services (Wrox Programmer to Programmer)</Buchtitel>
+    <Autor>21</Autor>
+    <Reihe>4</Reihe>
+    <ISBN>978-0-47024-795-2</ISBN>
+    <Preis>39.80</Preis>
+  </Buch>
+  <Buch ID="25">
+    <Buchtitel>SQL Server Analysis Services 2008 with MDX (Wrox Programmer to Programmer)</Buchtitel>
+    <Autor>23</Autor>
+    <Reihe>4</Reihe>
+    <ISBN>978-0-47024-798-3</ISBN>
+    <Preis>39.80</Preis>
+  </Buch>
+  <Buch ID="26">
+    <Buchtitel>SQL Server 2008 Reporting Services (Wrox Programmer to Programmer)</Buchtitel>
+    <Autor>19</Autor>
+    <Reihe>4</Reihe>
+    <ISBN>978-0-47024-201-8</ISBN>
+    <Preis>39.80</Preis>
+  </Buch>
+  <Buch ID="27">
+    <Buchtitel>SQL Server 2008-Programmierung mit der CLR und .NET </Buchtitel>
+    <Autor>7</Autor>
+    <Reihe>3</Reihe>
+    <ISBN>978-3-86645-436-1</ISBN>
+    <Preis>39.90</Preis>
+  </Buch>
+  <Buch ID="28">
+    <Buchtitel>Expert Cube Development with Microsoft SQL Server 2008 Analysis Services </Buchtitel>
+    <Autor>22</Autor>
+    <Reihe>4</Reihe>
+    <ISBN>978-1-84719-722-1</ISBN>
+    <Preis>29.90</Preis>
+  </Buch>
+  <Buch ID="29">
+    <Buchtitel>The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling</Buchtitel>
+    <Autor>8</Autor>
+    <Reihe>4</Reihe>
+    <ISBN>978-0-47120-024-6</ISBN>
+    <Preis>49.90</Preis>
+  </Buch>
+  <Buch ID="30">
+    <Buchtitel>The Microsoft Data Warehouse Toolkit</Buchtitel>
+    <Autor>8</Autor>
+    <Reihe>4</Reihe>
+    <ISBN>978-0-47126-715-7</ISBN>
+    <Preis>39.90</Preis>
+  </Buch>
+  <Buch ID="31">
+    <Buchtitel>The Data Warehouse ETL Toolkit: Practical Techniques </Buchtitel>
+    <Autor>8</Autor>
+    <Reihe>4</Reihe>
+    <ISBN>978-0-76456-757-5</ISBN>
+    <Preis>39.90</Preis>
+  </Buch>
+</Buecherliste>
